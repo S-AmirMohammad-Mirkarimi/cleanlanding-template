@@ -15,12 +15,6 @@ A basic yet fully responsive website template designed for quick deployment and 
 
 ---
 
-## 🖼️ Screenshots
-
-![Template](https://github.com/user-attachments/assets/62f70540-f392-49b6-9d5a-c97cbdbd6521)
-
----
-
 ## 🛠️ Tech Stack
 
 | Category          | Technology           | Description                                   |
@@ -49,6 +43,12 @@ Website-Template/
 │
 └── index.html          # The main HTML file of the website
 ```
+
+---
+
+## 🖼️ Screenshots
+
+![Template](https://github.com/user-attachments/assets/62f70540-f392-49b6-9d5a-c97cbdbd6521)
 
 ---
 
